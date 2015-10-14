@@ -1,5 +1,6 @@
 (function () {
     'use strict';
+
     var ImageGalleryDirective = function () {
         // Use as Attribute or Element
         // Isolate scope and add an attribute, but use whatever internal var name.
@@ -14,7 +15,7 @@
             link: function ($scope, element, attrs, ctrl) {
                 ctrl.setContainer($('.gallery-container', element));
 
-                // element is wrapped in jqLite $()
+                // Element is auto-wrapped in jqLite $()
                 element.on('mouseover', ctrl.changeBkgd);
             }
         };
