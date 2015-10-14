@@ -4,10 +4,15 @@ The source for the sample AngularJs project for production apps.
 ## AngularJs 1.x for the Enterprise
 
 Presentation by Wes Hunt
+
 Senior Software & UX Dev Guy @ Pulsara
+
 Bio: First thought JS was "neat" when it came out, then "tolerated" pre helper libraries, now "something like love".
+
 twitter: [@montechie](https://twitter.com/montechie)
+
 linkedin: [/weshunt](https://www.linkedin.com/in/weshunt)
+
 email: 4thddev [+] gmail.com
 
 
