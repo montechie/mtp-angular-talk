@@ -25,6 +25,7 @@
             'Config'
         ])
         .config(function ($routeProvider) {
+            // This should eventually go into it's own file as well. Along with creating some constants.
             $routeProvider
                 .when('/', {
                     templateUrl: 'scripts/main/main.html',
