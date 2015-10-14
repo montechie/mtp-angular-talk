@@ -1,7 +1,7 @@
 # mtp-angular-talk
 The source for the sample AngularJs project for production apps.
 
-## AngularJs 1.x for the Enterprise
+## AngularJs 1.x for Maintainable Apps
 
 Presentation by Wes Hunt
 
