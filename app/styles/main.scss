@@ -3,6 +3,8 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
 
+@import "image-gallery";
+
 .browsehappy {
     margin: 0.2em 0;
     background: #CCC;
@@ -64,6 +66,12 @@ body {
 
     p + h4 {
         margin-top: 28px;
+    }
+}
+
+#gallery {
+    h1 {
+        font-size: 2em;
     }
 }
 
